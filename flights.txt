@@ -1,0 +1,21 @@
+1 MS101 Cairo Alexandria 1200 150
+1 MS102 Cairo Aswan 1800 100
+1 MS103 Cairo Luxor 1700 120
+1 MS104 Cairo Sharm_ElSheikh 2500 200
+1 MS105 Cairo Hurghada 2200 180
+1 MS106 Cairo Siwa 1500 80
+1 MS107 Cairo Marsa_Matrouh 1400 90
+2 EK501 Cairo Dubai 10900 350 0 1200 wifi_meals
+2 BA202 Cairo London 15500 279 1 1500 full_service
+2 AF404 Cairo Paris 13800 300 1 1400 movies_wifi
+2 QR303 Cairo Doha 9700 320 0 1100 luxury_meals
+2 LH606 Cairo Frankfurt 13100 250 1 1300 standard_wifi
+2 SV707 Cairo Riyadh 7100 400 0 800 snacks_only
+2 TK808 Cairo Istanbul 8400 380 0 950 meals_included
+2 RJ909 Cairo Amman 5700 150 0 600 basic_wifi
+2 AA111 Cairo NewYork 32000 450 1 3500 premium_all
+2 AC222 Cairo Toronto 35600 400 1 3800 meals_wifi
+2 IB333 Cairo Madrid 11900 250 1 1200 standard
+2 AZ444 Cairo Rome 11300 260 1 1150 wifi_only
+2 KL555 Cairo Amsterdam 12700 280 1 1350 meals_movies
+2 CX607 Cairo Riyadh 6200 498 1 100 wifi
